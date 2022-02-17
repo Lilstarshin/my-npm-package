@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "dependencies": {
+        "@lilstar/mypackage": "^0.1.0"
+    }
+}

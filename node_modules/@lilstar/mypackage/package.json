@@ -1,0 +1,8 @@
+{
+    "name": "@lilstar/mypackage",
+    "version": "0.1.2",
+    "main": "main.js",
+    "keywords": ["utill"],
+    "license": "MIT",
+    "dependencies": {}
+}
